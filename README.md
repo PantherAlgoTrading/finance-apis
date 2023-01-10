@@ -2,7 +2,6 @@
 <h1>Free Finance APIs for Personal Projects :rocket: :sparkler: </h1>
 </div>
 
-### Finance
 API | Description | Auth | HTTPS | CORS |
 |---|---|---|---|---|
 | [Abstract VAT Validation](https://www.abstractapi.com/vat-validation-rates-api) | Validate VAT numbers and calculate VAT rates | `apiKey` | Yes | Yes |
