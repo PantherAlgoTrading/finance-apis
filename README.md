@@ -1,4 +1,6 @@
-# Free Finance APIs for personal projects
+<div align="center"> 
+<h1>Free Finance APIs for Personal Projects :rocket: :sparkler: </h1>
+</div>
 
 ### Finance
 API | Description | Auth | HTTPS | CORS |
