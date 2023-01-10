@@ -50,6 +50,5 @@ API | Description | Auth | HTTPS | CORS |
 | [YNAB](https://api.youneedabudget.com/) | Budgeting & Planning | `OAuth` | Yes | Yes |
 | [Zoho Books](https://www.zoho.com/books/api/v3/) | Online accounting software, built for your business | `OAuth` | Yes | Unknown |
 
-<div align="center">
-<h4>  List courtesy of [Public APIs repo](https://github.com/public-apis/public-apis) :star: </h4>
-  </div>
+##List courtesy of [Public APIs repo](https://github.com/public-apis/public-apis) :star:
+
