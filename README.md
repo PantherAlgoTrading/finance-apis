@@ -57,5 +57,8 @@ API | Description | Auth | HTTPS | CORS |
 - FactSet
 - Koyfin
 
+
+
+
   <b>List courtesy of [Public APIs repo](https://github.com/public-apis/public-apis) :star:</b>
 
