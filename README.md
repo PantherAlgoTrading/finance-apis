@@ -59,6 +59,5 @@ API | Description | Auth | HTTPS | CORS |
 - Bloomberg
 - CapIQ
 - FactSet
-- Koyfin
 
 
