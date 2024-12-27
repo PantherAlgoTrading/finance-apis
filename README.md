@@ -59,5 +59,5 @@ API | Description | Auth | HTTPS | CORS |
 - Bloomberg
 - CapIQ
 - FactSet
-
+- Pitchbook (Private Markets)
 
