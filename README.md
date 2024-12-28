@@ -60,4 +60,5 @@ API | Description | Auth | HTTPS | CORS |
 - CapIQ
 - FactSet
 - Pitchbook (Private Markets)
+- AlphaSense
 
